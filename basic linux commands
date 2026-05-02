@@ -1,2 +1,9 @@
-shell commands:
+linux commands:
+1. pwd , cat , vi , touch, ls, ls -l(long format), ls -lt (list latest files), ls -lrt (list files) , mkdir
+2. chmod 777 , 7 : -rw , 7(owner) 7(group) 7(others)
+3. vim editor - :%s/linux/windows/g to edit all lines
+                :1,2s/linux/windows/g to edit first two lines
+                :$-1,$s/linux/windows/g to edit last two lines
+4.unod chnages in the file: u, reverse undo : control+r , to get to original file - :e! .
+
 
